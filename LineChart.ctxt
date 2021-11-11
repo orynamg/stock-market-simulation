@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LineChart
+comment1.params=
+comment1.target=LineChart()
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=series\ color\ CompanyName
+comment3.target=void\ plot(java.util.List,\ java.awt.Color,\ java.lang.String)
+numComments=4

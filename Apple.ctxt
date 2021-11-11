@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Apple
+comment0.text=\n\ Company\ 2\ \=\ Apple\n
+comment1.params=
+comment1.target=Apple()
+comment2.params=
+comment2.target=void\ fluctuation()
+comment3.params=newDemand
+comment3.target=void\ setAppleDemand(double)
+comment4.params=
+comment4.target=double\ getAppleDemand()
+comment5.params=
+comment5.target=double\ changeAppleDemand()
+comment6.params=
+comment6.target=double\ getStockPrice()
+numComments=7

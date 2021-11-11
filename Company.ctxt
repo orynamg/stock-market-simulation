@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Company
+comment0.text=\n\ Abstract\ class\ Company\ -\ Template\ for\ Comapany\ structure\n
+comment1.params=stockPrice\ companyName
+comment1.target=Company(double,\ java.lang.String)
+comment2.params=
+comment2.target=double\ getStockPrice()
+comment3.params=price
+comment3.target=void\ setStockPrice(double)
+comment4.params=
+comment4.target=void\ fluctuation()
+comment5.params=numStocks
+comment5.target=double\ calcStock(int)
+comment6.params=
+comment6.target=java.lang.String\ getCompanyName()
+numComments=7

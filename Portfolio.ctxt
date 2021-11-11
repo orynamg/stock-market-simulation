@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Portfolio
+comment0.text=\n\ Personal\ Portfolio\ Class\n
+comment1.params=credit
+comment1.target=Portfolio(double)
+comment2.params=
+comment2.target=double\ getCredit()
+comment3.params=extraCredit
+comment3.target=void\ addCredit(double)
+comment4.params=extraCredit
+comment4.target=void\ reduceCredit(double)
+comment5.params=index
+comment5.target=int\ getStockInfo(int)
+comment6.params=index\ numStocks
+comment6.target=void\ setStock(int,\ int)
+numComments=7

@@ -1,0 +1,3 @@
+KO (Coca Cola) Sat Mar 20 13:47:29 GMT 2021 4.40
+APPL (Apple) Sat Mar 20 13:47:29 GMT 2021 6.48
+TSLA (Tesla) Sat Mar 20 13:47:29 GMT 2021 6.00
